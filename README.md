@@ -12,6 +12,8 @@
 ### Project : Interactive quiz application
 
 ![output quiz application](https://github.com/user-attachments/assets/ce11d824-d912-4a5a-a8fb-fffb0c89b2b0)
+![output page](https://github.com/user-attachments/assets/4a0dc5a6-00a8-41a2-bd5e-2dcec21eaa7e)
+
 
 
 ### Purpose :
